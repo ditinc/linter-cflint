@@ -2,7 +2,7 @@
   "name": "linter-cflint",
   "main": "./lib/main",
   "activationCommands": [],
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Lint CFML on save, using CFLint",
   "repository": "https://github.com/sjmatta/linter-cflint.git",
   "license": "MIT",
