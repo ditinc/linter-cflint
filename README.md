@@ -1,5 +1,7 @@
 # linter-cflint
 
+https://atom.io/packages/linter-cflint
+
 This linter plugin for [Linter](https://github.com/AtomLinter/Linter) provides
 an interface to [CFLint](https://github.com/cflint/CFLint). It will be used with files that have the "ColdFusion" syntax.
 
