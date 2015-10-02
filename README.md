@@ -16,7 +16,7 @@ apm install linter-cflint
 You can configure linter-cflint by editing ~/.atom/config.cson (choose Open Your Config in Atom menu) or in Preferences:
 
 ```
-'linter-eslint':
+'linter-cflint':
   'cflintPath': '/Users/foo/cflint/CFLint-0.5.0-all.jar'
   'javaPath': '/usr/java/jdk1.8.0_60/bin/java'
 ```
