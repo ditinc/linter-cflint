@@ -4,6 +4,7 @@
   "activationCommands": [],
   "version": "0.1.0",
   "description": "Lint CFML on save, using CFLint",
+  "repository": "https://github.com/sjmatta/linter-cflint.git",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
