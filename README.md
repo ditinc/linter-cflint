@@ -1,5 +1,9 @@
 # linter-cflint
 
+[![GitHub version](https://badge.fury.io/gh/sjmatta%2Flinter-cflint.svg)](http://badge.fury.io/gh/sjmatta%2Flinter-cflint)
+[![Dependency Status](https://david-dm.org/sjmatta/linter-cflint.svg)](https://david-dm.org/sjmatta/linter-cflint)
+[![devDependency Status](https://david-dm.org/sjmatta/linter-cflint/dev-status.svg)](https://david-dm.org/sjmatta/linter-cflint#info=devDependencies)
+
 https://atom.io/packages/linter-cflint
 
 This linter plugin for [Linter](https://github.com/AtomLinter/Linter) provides
