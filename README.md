@@ -1,15 +1,15 @@
 # linter-cflint
 
-[![GitHub version](https://badge.fury.io/gh/sjmatta%2Flinter-cflint.svg)](http://badge.fury.io/gh/sjmatta%2Flinter-cflint)
-[![Dependency Status](https://david-dm.org/sjmatta/linter-cflint.svg)](https://david-dm.org/sjmatta/linter-cflint)
-[![devDependency Status](https://david-dm.org/sjmatta/linter-cflint/dev-status.svg)](https://david-dm.org/sjmatta/linter-cflint#info=devDependencies)
+[![GitHub version](https://badge.fury.io/gh/ditinc%2Flinter-cflint.svg)](http://badge.fury.io/gh/ditinc%2Flinter-cflint)
+[![Dependency Status](https://david-dm.org/ditinc/linter-cflint.svg)](https://david-dm.org/ditinc/linter-cflint)
+[![devDependency Status](https://david-dm.org/ditinc/linter-cflint/dev-status.svg)](https://david-dm.org/ditinc/linter-cflint#info=devDependencies)
 
 https://atom.io/packages/linter-cflint
 
 This linter plugin for [Linter](https://github.com/AtomLinter/Linter) provides
 an interface to [CFLint](https://github.com/cflint/CFLint). It will be used with files that have the "ColdFusion" syntax.
 
-:memo: **Note: CFLint currently requires write access to the file system for XML output. Atom for Windows seems to be cool with this, but Atom for Mac OS X throws a permission exception. For now, use CFLint from https://github.com/sjmatta/CFLint/releases/download/v0.5-sjm/CFLint-0.5.0-all.jar until I can craft an acceptable pull request to the main repo.**
+:memo: **Note: CFLint currently requires write access to the file system for XML output. Atom for Windows seems to be cool with this, but Atom for Mac OS X throws a permission exception. For now, use CFLint from https://github.com/ditinc/CFLint/releases/download/v0.5-sjm/CFLint-0.5.0-all.jar until I can craft an acceptable pull request to the main repo.**
 
 ## Installation
 
