@@ -15,18 +15,7 @@ an interface to [CFLint](https://github.com/cflint/CFLint). It will be used with
 apm install linter-cflint
 ```
 
-`linter-cflint` currently requires you have the Java JRE (or JDK) `java.exe` installed somewhere on your system. Use the configuration to set the location of `java.exe`.
-
-## Settings
-
-You can configure linter-cflint by editing ~/.atom/config.cson (choose Open Your Config in Atom menu) or in Preferences:
-
-```
-'linter-cflint':
-  'javaPath': '/usr/java/jdk1.8.0_60/bin/java'
-```
-
-* Path must be absolute.
+`linter-cflint` required Java >= 1.6, JRE or JDK, on your system and the `JAVA_HOME` environmental variable to be set.
 
 ## Roadmap
 * Add additional rules to [CFLint](https://github.com/cflint/CFLint) (with an emphasis on indentation and formatting rules)
