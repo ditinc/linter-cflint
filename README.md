@@ -9,15 +9,13 @@ https://atom.io/packages/linter-cflint
 This linter plugin for [Linter](https://github.com/AtomLinter/Linter) provides
 an interface to [CFLint](https://github.com/cflint/CFLint). It will be used with files that have the "ColdFusion" syntax.
 
-:memo: **Note: CFLint currently requires write access to the file system for XML output. Atom for Windows seems to be cool with this, but Atom for Mac OS X throws a permission exception. For now, use CFLint from https://github.com/ditinc/CFLint/releases/download/v0.5-sjm/CFLint-0.5.0-all.jar until I can craft an acceptable pull request to the main repo.**
-
 ## Installation
 
 ```
 apm install linter-cflint
 ```
 
-`linter-cflint` currently requires you have the [CFLint](https://github.com/cflint/CFLint) JAR and the Java JRE (or JDK) `java.exe` installed somewhere on your system. Use the configuration to set the location of the JAR and of `java.exe`.
+`linter-cflint` currently requires you have the Java JRE (or JDK) `java.exe` installed somewhere on your system. Use the configuration to set the location of `java.exe`.
 
 ## Settings
 
@@ -25,16 +23,13 @@ You can configure linter-cflint by editing ~/.atom/config.cson (choose Open Your
 
 ```
 'linter-cflint':
-  'cflintPath': '/Users/foo/cflint/CFLint-0.5.0-all.jar'
   'javaPath': '/usr/java/jdk1.8.0_60/bin/java'
 ```
 
-* Both paths must be absolute.
+* Path must be absolute.
 
 ## Roadmap
 * Add additional rules to [CFLint](https://github.com/cflint/CFLint) (with an emphasis on indentation and formatting rules)
-* On-the-fly linting (may require modifications to [CFLint](https://github.com/cflint/CFLint)).
-* Performance enhancements.
 * Remove the dependency on Java?
 * Better error handling / reporting.
 
