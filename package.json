@@ -3,7 +3,7 @@
   "main": "./lib/main",
   "activationCommands": [],
   "version": "0.4.1",
-  "description": "Lint CFML on save, using CFLint",
+  "description": "Lint CFML on the fly, using CFLint",
   "repository": "https://github.com/ditinc/linter-cflint.git",
   "license": "MIT",
   "engines": {
