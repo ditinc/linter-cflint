@@ -17,6 +17,8 @@ apm install linter-cflint
 
 `linter-cflint` required Java >= 1.6, JRE or JDK, on your system and the `JAVA_HOME` environmental variable to be set.
 
+**If you receive errors about `JAVA_HOME` being unset, you can specify the location of a Java executable instead in the configuration options.**
+
 ## Roadmap
 * Add additional rules to [CFLint](https://github.com/cflint/CFLint) (with an emphasis on indentation and formatting rules)
 * Remove the dependency on Java?
