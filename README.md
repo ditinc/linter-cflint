@@ -19,6 +19,9 @@ apm install linter-cflint
 
 **If you receive errors about `JAVA_HOME` being unset, you can specify the location of a Java executable instead in the configuration options.**
 
+## Configuration
+* Similar to `.eslintrc`, you can use a `.cflintrc` file in your project or in a subfolder to exclude rules from the linter. See [the wiki page](https://github.com/ditinc/linter-cflint/wiki/Excluding-rules) for details.
+
 ## Roadmap
 * Add additional rules to [CFLint](https://github.com/cflint/CFLint) (with an emphasis on indentation and formatting rules)
 * Remove the dependency on Java?
