@@ -2,7 +2,7 @@
   "name": "linter-cflint",
   "main": "./lib/main",
   "activationCommands": [],
-  "version": "0.7.4",
+  "version": "0.7.5",
   "description": "Lint CFML on the fly, using CFLint",
   "repository": "https://github.com/ditinc/linter-cflint.git",
   "license": "MIT",
