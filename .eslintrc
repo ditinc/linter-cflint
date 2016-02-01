@@ -3,5 +3,6 @@
   "parser": "babel-eslint",
   "rules": {
     "id-length": 0,
+    "no-console": 0,
   }
 }
