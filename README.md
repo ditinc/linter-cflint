@@ -15,9 +15,7 @@ an interface to [CFLint](https://github.com/cflint/CFLint). It will be used with
 apm install linter-cflint
 ```
 
-`linter-cflint` required Java >= 1.6, JRE or JDK, on your system and the `JAVA_HOME` environmental variable to be set.
-
-**If you receive errors about `JAVA_HOME` being unset, you can specify the location of a Java executable instead in the configuration options.**
+`linter-cflint` requires Java >= 1.6, JRE or JDK, on your system and either the `JAVA_HOME` environmental variable to be set or for the user to specify the location of the Java executable in the configuration options.
 
 ## Configuration
 * Similar to `.eslintrc`, you can use a `.cflintrc` file in your project or in a subfolder to exclude rules from the linter. See [the wiki page](https://github.com/ditinc/linter-cflint/wiki/Excluding-rules) for details.
