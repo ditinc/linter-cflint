@@ -3,7 +3,7 @@
   "main": "./lib/main",
   "activationCommands": [],
   "version": "0.13.0",
-  "description": "Lint ColdFusion code (CFML, CFC) on the fly, using CFLint",
+  "description": "Linter plugin for ColdFusion, using CFLint",
   "repository": "https://github.com/ditinc/linter-cflint.git",
   "license": "MIT",
   "engines": {
