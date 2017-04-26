@@ -1,6 +1,6 @@
 # linter-cflint :shirt:
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/3e833834a6954be59fba7e2def2d5d8b)](https://www.codacy.com/app/sjmatta/linter-cflint?utm_source=github.com&utm_medium=referral&utm_content=ditinc/linter-cflint&utm_campaign=badger)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/03d7df0c35654e6ea7da87f4a95fc0cd)](https://www.codacy.com/app/stephenjmatta/linter-cflint?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ditinc/linter-cflint&amp;utm_campaign=Badge_Grade)
 [![GitHub version](https://badge.fury.io/gh/ditinc%2Flinter-cflint.svg)](http://badge.fury.io/gh/ditinc%2Flinter-cflint)
 [![Dependency Status](https://david-dm.org/ditinc/linter-cflint.svg)](https://david-dm.org/ditinc/linter-cflint)
 [![devDependency Status](https://david-dm.org/ditinc/linter-cflint/dev-status.svg)](https://david-dm.org/ditinc/linter-cflint#info=devDependencies)
